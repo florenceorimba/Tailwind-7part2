@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.scroll-container::-webkit-scrollbar-thumb {
+    background-color: #000; /* Scrollbar color */
+    border-radius: 10px; /* Roundness of scrollbar */
+}
