@@ -13,6 +13,10 @@ module.exports = {
         'icon-white-100': '#FFFFFF',
         'black-10': 'rgba(0, 0, 0, 0.1)',
       },
+      fontFamily: {
+        sans: ['DM Sans', 'sans-serif'],
+        'dm-sans': ['DM Sans', 'sans-serif'],
+      },
     },
   },
   plugins: [],
